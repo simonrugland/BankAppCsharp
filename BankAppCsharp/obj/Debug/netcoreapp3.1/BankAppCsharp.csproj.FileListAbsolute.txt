@@ -1,0 +1,13 @@
+C:\Users\Simon\source\repos\BankAppCsharp\BankAppCsharp\bin\Debug\netcoreapp3.1\BankAppCsharp.exe
+C:\Users\Simon\source\repos\BankAppCsharp\BankAppCsharp\bin\Debug\netcoreapp3.1\BankAppCsharp.deps.json
+C:\Users\Simon\source\repos\BankAppCsharp\BankAppCsharp\bin\Debug\netcoreapp3.1\BankAppCsharp.runtimeconfig.json
+C:\Users\Simon\source\repos\BankAppCsharp\BankAppCsharp\bin\Debug\netcoreapp3.1\BankAppCsharp.runtimeconfig.dev.json
+C:\Users\Simon\source\repos\BankAppCsharp\BankAppCsharp\bin\Debug\netcoreapp3.1\BankAppCsharp.dll
+C:\Users\Simon\source\repos\BankAppCsharp\BankAppCsharp\bin\Debug\netcoreapp3.1\BankAppCsharp.pdb
+C:\Users\Simon\source\repos\BankAppCsharp\BankAppCsharp\obj\Debug\netcoreapp3.1\BankAppCsharp.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\BankAppCsharp\BankAppCsharp\obj\Debug\netcoreapp3.1\BankAppCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Simon\source\repos\BankAppCsharp\BankAppCsharp\obj\Debug\netcoreapp3.1\BankAppCsharp.AssemblyInfoInputs.cache
+C:\Users\Simon\source\repos\BankAppCsharp\BankAppCsharp\obj\Debug\netcoreapp3.1\BankAppCsharp.AssemblyInfo.cs
+C:\Users\Simon\source\repos\BankAppCsharp\BankAppCsharp\obj\Debug\netcoreapp3.1\BankAppCsharp.dll
+C:\Users\Simon\source\repos\BankAppCsharp\BankAppCsharp\obj\Debug\netcoreapp3.1\BankAppCsharp.pdb
+C:\Users\Simon\source\repos\BankAppCsharp\BankAppCsharp\obj\Debug\netcoreapp3.1\BankAppCsharp.genruntimeconfig.cache
